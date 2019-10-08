@@ -18,6 +18,13 @@ tags = ["reviews", "games"]
 ### Bad
 
 * Frame stutters on zone changes
-* A small number of puzzles are too obscure
-  * eg: Walrus seashell
 * Got all my cool upgrades just in time to not use them
+* Some things are very obscure
+  * Bomb, arrows, shovels are store items
+  * Magic Powder lighting torches in Bottle Grotto
+  * Magic Powder stunning green chus
+  * Walrus seashell in the desert
+  * Papahl asks for "vittles" and wants pineapples
+  * Non-obvious bombable walls in Turtle Rock
+  * Bomb arrows exist?
+  * Boomerang exists?
