@@ -1,4 +1,7 @@
-baseURL = "http://example.org/"
+baseURL = "scizzorz.com"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "scizzorz.com"
 theme = "blank"
+
+[taxonomies]
+tag = "tags"
