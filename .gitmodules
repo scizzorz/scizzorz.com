@@ -1,0 +1,3 @@
+[submodule "themes/scizzorz"]
+	path = themes/scizzorz
+	url = https://github.com/scizzorz/scizzorz-hugo.git
