@@ -1,6 +1,6 @@
-baseURL = "scizzorz.com"
+baseURL = "https://scizzorz.com"
 languageCode = "en-us"
-title = "scizzorz.com"
+title = "scizzorz"
 theme = "scizzorz"
 
 [taxonomies]
