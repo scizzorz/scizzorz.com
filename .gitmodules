@@ -1,3 +1,6 @@
 [submodule "themes/scizzorz"]
 	path = themes/scizzorz
 	url = https://github.com/scizzorz/scizzorz-hugo.git
+[submodule "public"]
+	path = public
+	url = git@github.com:scizzorz/scizzorz.github.io.git
