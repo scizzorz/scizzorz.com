@@ -29,6 +29,14 @@ author = "John Weachock"
 
 <ul class="okay">
   <li>I got all my cool sword upgrades at the very end</li>
+  <li>Some things are obscure
+    <ul>
+      <li>Bomb, arrows, shovel are store-bought items</li>
+      <li>Magic Powder stunning green chus</li>
+      <li>Bomb arrows exist?</li>
+      <li>Boomerang trades for shovel?</li>
+    </ul>
+  </li>
 </ul>
 
 ### Bad
@@ -37,14 +45,10 @@ author = "John Weachock"
   <li>Frame stutters on zone changes</li>
   <li>Some things are very obscure
     <ul>
-      <li>Bomb, arrows, shovel are store-bought items</li>
       <li>Magic Powder lighting torches in Bottle Grotto</li>
-      <li>Magic Powder stunning green chus</li>
       <li>Walrus seashell in the desert</li>
       <li>Papahl asks for "vittles" and wants pineapples</li>
       <li>Non-obvious bombable walls in Turtle Rock</li>
-      <li>Bomb arrows exist?</li>
-      <li>Boomerang trades for shovel?</li>
     </ul>
   </li>
 </ul>
