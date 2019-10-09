@@ -1,7 +1,7 @@
 baseURL = "scizzorz.com"
 languageCode = "en-us"
 title = "scizzorz.com"
-theme = "blank"
+theme = "scizzorz"
 
 [taxonomies]
 tag = "tags"
