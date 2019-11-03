@@ -1,5 +1,5 @@
 +++
-title = "Blind Forest"
+title = "Ori and the Blind Forest: Definitive Edition (Switch)"
 date = 2019-11-03T10:00:14-05:00
 tags = ["reviews", "games"]
 author = "John Weachock"
