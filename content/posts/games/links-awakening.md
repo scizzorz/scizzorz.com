@@ -22,7 +22,11 @@ author = "John Weachock"
   <li>Solid pacing</li>
   <li>Fun puzzles</li>
   <li>Unique art style</li>
-  <li>Great map features</li>
+  <li>Great map
+    <ul>
+      <li>Pins are great for marking places to revisit</li>
+    </ul>
+  </li>
 </ul>
 
 ### Okay
@@ -34,9 +38,10 @@ author = "John Weachock"
       <li>Bomb, arrows, shovel are store-bought items</li>
       <li>Magic Powder stunning green chus</li>
       <li>Bomb arrows exist?</li>
-      <li>Boomerang trades for shovel?</li>
+      <li><strike>Boomerang trades for shovel?</strike> you can buy the shovel back</li>
     </ul>
   </li>
+  <li>Dampe's dungeon builder is subpar</li>
 </ul>
 
 ### Bad
@@ -48,7 +53,7 @@ author = "John Weachock"
       <li>Magic Powder lighting torches in Bottle Grotto</li>
       <li>Walrus seashell in the desert</li>
       <li>Papahl asks for "vittles" and wants pineapples</li>
-      <li>Non-obvious bombable walls in Turtle Rock</li>
+      <li><strike>Non-obvious bombable walls in Turtle Rock</strike> non-obvious hint about "rock that rolls"</li>
     </ul>
   </li>
 </ul>
