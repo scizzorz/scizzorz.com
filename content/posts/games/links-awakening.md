@@ -7,6 +7,9 @@ author = "John Weachock"
 
 <h2>Overall: <span class="great">Great</span></h2>
 
+* Played: 15+ hours
+* Hearts: 18
+* Seashells: 40
 
 ### Great
 

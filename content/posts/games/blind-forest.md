@@ -7,8 +7,9 @@ author = "John Weachock"
 
 <h2>Overall: <span class="great">Great</span></h2>
 
-10.5h played for 100% exploration and 400 deaths.
-
+* Played: 10 hours
+* Completion: 100% exploration
+* Deaths: 400
 
 ### Great
 
